@@ -1,0 +1,28 @@
+body{
+    background-color: grey;
+}
+.container{
+    width: 100%;
+}
+
+.content{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 20%
+}
+#counter{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+#decrement-btn,
+#reset-btn,
+#increment-btn{
+    align-items: center;
+    position: relative;
+    left: 37%;
+}
+
